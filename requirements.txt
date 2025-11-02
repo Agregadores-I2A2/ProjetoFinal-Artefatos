@@ -1,0 +1,6 @@
+streamlit              # Para a interface web
+google-generativeai    # Para a IA (pdf_processor.py que importa fitz))
+pandas                 # Útil para queries e visualização
+PyMuPDF                # Para extração de texto de PDF (mais rápido)
+python-dotenv          # Para gerenciar segredos
+APScheduler            # Para o script de timeout

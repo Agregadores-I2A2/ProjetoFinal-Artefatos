@@ -1,0 +1,29 @@
+Pasta de configuração de segredos.
+
+NUNCA envie este ficheiro para o Git.
+
+.env
+
+Banco de dados local. Não envie dados para o Git.
+
+data/pedidos.db
+*.db
+*.sqlite
+*.sqlite3
+
+Ambientes virtuais do Python (ex: venv/)
+
+venv/
+*.venv/
+
+Pastas de cache do Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Pastas de configuração de IDEs (ex: VSCode)
+
+.vscode/
+.idea/
